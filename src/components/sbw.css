@@ -1,0 +1,33 @@
+.sbwimg{
+    width: 100%;
+}
+
+.sbw{
+    margin-right:  0;
+    padding-right: 0;
+
+    margin-left: 6%;
+}
+
+.sbwh{
+    margin-bottom: 60px;
+}
+
+.sbwbtn{
+    font-size: 1.5em;
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+    font-weight: 700;
+}
+.sbwh h1{
+    font-size: 500%;
+}
+.sbwleft{
+    padding-top: 200px;
+}
+
+
+.sbwright{
+    padding-right: 0;
+}
